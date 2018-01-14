@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 12 15:03:52 EST 2018
+scala_maven_helloworld-0.0.1-SNAPSHOT.pom>=
+scala_maven_helloworld-0.0.1-SNAPSHOT-jar-with-dependencies.jar>=
+scala_maven_helloworld-0.0.1-SNAPSHOT.jar>=
